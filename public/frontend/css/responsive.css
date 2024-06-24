@@ -1,0 +1,774 @@
+@media (min-width: 1200px) and (max-width: 1440px) {
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .srv-image img {
+    height: 270px;
+  }
+}
+
+
+@media (min-width: 1400px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1250px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .blankCol {
+    min-width: 270px;
+}
+}
+
+@media (min-width: 992px) {
+  .border-right {
+    padding-right: 50px;
+  }
+  .border-left {
+    padding-left: 50px;
+    border-left: 2px solid #EAEAEA;
+  }
+
+  .features-slider {
+    margin: 0 0 30px;
+  }
+  .mobile_logo {
+    display: none;
+  }
+
+  .dropdown-menu {
+    right: 0;
+    left: auto;
+  }
+/* 
+  .dropdown:hover ul.dropdown-menu,
+  .dropdown:hover ul.dropdown-menu.show {
+    top: calc(100% + 5px);
+    opacity: 1;
+    visibility: visible;
+    transform: rotateX(0) translateZ(0);
+
+  } */
+}
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+  .cart-coupon-text {
+    font-size: 17px;
+  }
+  .srv-image img {
+    height: 230px;
+  }
+  p {
+    font-size: 17px;
+  }
+  .testimonials-section {
+    margin-top: 20px;
+  }
+
+  .reg-h2 {
+    font-size: 30px;
+  }
+
+  .section-padding.register-section {
+    padding-top: 0;
+  }
+  .section-heading {
+    font-size: 30px;
+  }
+  .features-slider {
+    height: 600px;
+  }
+  .hero-heading {
+    font-size: 43px;
+  }
+  .section-title {
+    font-size: 32px;
+  }
+  #header .extra_nav {
+    margin-left: 15px;
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .page-title {
+    font-size: 32px;
+  }
+  .page-content {
+    padding: 50px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .form-h2 {
+    font-size: 20px;
+    margin: 11px 0 29px;
+  }
+
+  .srv-image img {
+    height: 190px;
+  }
+  .srv-title {
+    font-size: 18px;
+  }
+  .srv-block {
+    margin: 0 0 30px;
+  }
+  .features-slider {
+    height: 500px;
+  }
+  .section-title {
+    font-size: 24px;
+  }
+
+  .navbar-toggler.menuClose-icon {
+    display: none;
+  }
+  .navbar-toggler.menu-opened:before {
+    top: 10px;
+    background: #fff;
+    width: 22px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+
+  .navbar-toggler.menu-opened span {
+    opacity: 0;
+  }
+
+  .navbar-toggler.menu-opened:after {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    top: 10px;
+    border: 0;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+ 
+}
+
+ 
+@media (max-width: 991.98px) {
+  .class-block {
+    padding: 26px 20px;
+    margin: 15px 0 0;
+  }
+  .subTitle {
+    font-size: 22px;
+    margin: 0;
+  }
+  .conditions-wrapper {
+    margin: 30px auto;
+  }
+  .paypal-paycards {
+    display: block;
+  }
+  .payment_method_paypal_hint {
+    margin: 10px 0 0;
+  }
+  .payment_method_paypal_hint {
+    padding: 17px;
+    font-size: 15px;
+  }
+  .woocommerce table.shop_table th {
+    padding: 10px 15px;
+    font-size: 16px;
+  }
+  .payment_method_paypal_hint::before {
+    top: -15.5px;
+  }
+  .conditions-wrapper p {
+    font-size: 16px;
+  }
+  .checkoutClasses .form-group {
+    margin-bottom: 20px;
+  }
+.woocommerce table.shop_table td {
+    padding: 20px 15px;
+    font-size: 16px;
+  }
+  .woocommerce table.shop_table tfoot th, .woocommerce table.shop_table tfoot td, .woocommerce table.shop_table tbody th, .woocommerce table.shop_table tbody td {
+    font-size: 16px;
+  }
+  .AddFormBar {
+    margin-top: 0;
+  }
+  .checkoutHeader {
+    margin: 0 0 36px;
+  }
+
+  .cart-coupon-bar {
+    min-height: unset;
+  }
+  .cart-coupon-bar .default-btn {
+    padding: 10px 18px;
+    font-size: 16px;
+  }
+
+  .cart-coupon-bar {
+    padding: 10px 18px;
+  }
+  .cart-coupon-text {
+    font-size: 16px;
+  }
+  .privacy-form {
+    padding: 40px 0 0 0;
+  }
+  .srv-images img {
+    width: 100%;
+  }
+  .extra-section {
+    margin: 10px auto 0;
+  }
+  .srv-images {
+    margin: 40px auto 30px
+  }
+  
+  .hide-cta-mobile {
+    display: none;
+  }
+  .cta-block {
+    padding: 0;
+  }
+  #header.is-sticky .navbar-brand img {
+    max-height: 45px;
+  }
+  .reg-h2 {
+    font-size: 26px;
+  }
+  
+  .section-heading {
+    font-size: 32px;
+  }
+  .features-slider {
+    margin: 0 0 30px;
+  }
+  .welome-img {
+    margin: 30px auto 0;
+  }
+
+  .section-padding {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .welcome-element {
+    padding-right: 0;
+  }
+  .philosophy-element {
+    padding-left: 0;
+  }
+  #header .header_filled_btn,   #header .header_border_btn {
+    padding: 8px 15px !important;
+  }
+  .menuoverlay {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    z-index: 9;
+    }
+  #header .navbar-brand img {
+    max-height: 45px;
+    width: auto;
+  }#header .navbar-nav .dropdown-menu {
+    border: none;
+    /* background: transparent; */
+    position: absolute;
+}
+
+  .navbar-toggler:focus,
+  .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .navbar-toggler {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    right: 0px;
+    padding: 0;
+    border: 0;
+    z-index: 9;
+    margin-left: 17px;
+    margin-top: 3px;
+  }
+
+  .navbar-toggler:before {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+    content: "";
+  }
+
+  .navbar-toggler span {
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    position: absolute;
+    bottom: 14px;
+    right: 0;
+    display: block;
+    height: 2px;
+    width: 22px;
+    background: #fff;
+  }
+  .navbar-toggler:after {
+    position: absolute;
+    top: 16px;
+    right: 0;
+    display: block;
+    height: 4px;
+    width: 22px;
+    border-top: 2px solid #fff;
+    content: "";
+  }
+ 
+  /* Main Menu */
+  header .collapse:not(.show) {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -300px;
+    height: 100vh;
+    overflow-y: auto;
+    width: 250px;
+    background: #fff;
+    padding: 0 12px;
+    padding-top: 70px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s;
+    z-index: 99;
+  }
+
+  header .collapse:not(.show).menu-show {
+    left: 0px;
+  }
+
+  body.scroll-off {
+    overflow-y: hidden;
+  }
+
+  #header {
+    height: 65px;
+  }
+  #header .navbar-expand-lg .navbar-nav .nav-link.sign_up,
+  #header .navbar-expand-lg .navbar-nav .nav-link.sign_in {
+    margin: 0 0;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .mobile_logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0 0 0 22px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+    background-color: var(--secondary-color);
+    height: 65px;
+    display: flex;
+    align-items: center;
+    right: 0;
+  }
+  .is-sticky .mobile_logo {
+    padding: 15px 10px;
+  }
+
+  .is-sticky .collapse:not(.show) {
+    padding-top: 75px;
+  }
+  .mobile_logo img {
+    max-height: 40px;
+    width: auto;
+  }
+  #header .navbar-expand-lg .navbar-nav .nav-link.sign_up {
+    margin-top: 20px;
+  }
+  .overlay {
+    position: fixed;
+    height: 100vh;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    top: 0;
+    left: 0;
+    z-index: 1;
+  }
+  /* .user_dropdown .dropdown-toggle::after {
+    display: none;
+  } */
+  #header .extra_nav {
+    margin-left: 0;
+    border-top: 1px solid #ddd;
+    /*margin-top: 15px;*/
+    padding-top: 15px;
+  }
+
+  #header .extra_nav.for_mobile {
+    padding: 0;
+    margin-top: 0;
+    border: 0;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 11px 0;
+    color: #000;
+    border-bottom: 1px solid #ddd;
+  }
+  #header .navbar-expand-lg .navbar-nav .nav-link:hover, #header .navbar-expand-lg .navbar-nav .nav-item.active .nav-link {
+    color: #483904;
+  }
+  #header .navbar-expand-lg .navbar-nav .nav-link.extra_btn {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #header .navbar-expand-lg .navbar-nav .nav-link.lang_drop {
+    padding-left: 30px;
+    margin-bottom: 0;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-item {
+    margin-right: 0px !important;
+    margin-bottom: 0;
+  }
+  #header .extra_nav.for_mobile .nav-item {
+    margin-bottom: 0;
+  }
+  #header .navbar-nav .dropdown-menu {
+    border: none;
+    padding: 0;
+  }
+  #header .for_mobile {
+    display: block;
+  }
+  #header .for_desktop {
+    display: none;
+  }
+  .extra_nav.for_mobile {
+    margin-left: 0 !important;
+  }
+  .user_dropdown > a {
+    padding-left: 0;
+  }
+  #header .navbar-expand-lg .navbar-nav .nav-link:before {
+    display: none;
+  }  
+  .footer-signin-link a span,
+  .footer-signup-link a span {
+    font-size: 30px;
+  }
+
+  .footer-signin-link a p,
+  .footer-signup-link a p {
+    font-size: 13px;
+  }
+
+  .footer-signup-link a span.footer-link-arrow,
+  .footer-signin-link a span.footer-link-arrow {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    right: 10px;
+  }
+  .footer-signup-link a {
+    padding-left: 50px;
+  }
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-right: 70px;
+  }
+  .footer-block figure {
+    margin-bottom: 10px;
+  }
+
+  .footer-block {
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .form-h2 {
+    font-size: 22px;
+    margin: 0 0 20px;
+  }
+  .payment_method_paypal_hint::before {
+    top: -13.5px;
+  }
+  .coupon-block {
+    padding: 20px;
+  }
+  .flex-coupon {
+    display: block;
+  }
+  .coupon-btn .default-btn.btn-coupon {
+    width: 100%;
+  }
+  #progressbar li {
+    font-size: 15px;
+    width: 30.33%;
+  }
+  .cart-coupon-bar {
+    display: block;
+  }
+  .cart-coupon-bar .default-btn {
+    margin: 10px auto;
+    display: table;
+  }
+  .formSideImage {
+    display: none;
+}
+.formSection.loginform{
+    background-image: url(../img/login-image.jpg);
+}
+.formSection {
+    background-image: url(../img/register-image.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.formCard {
+    background-color: rgb(255 255 255 / 40%);
+    backdrop-filter: blur(11px);
+    padding: 20px;
+    width: 90%;
+    margin: 15px auto;
+    border-radius: 20px;
+}
+  .page-content {
+    padding: 40px 0;
+  }
+  .page-title {
+    font-size: 28px;
+  }
+
+  .srv-image img {
+    height: 190px;
+  }
+  .srv-title {
+    font-size: 18px;
+  }
+  .srv-block {
+    margin: 0 0 25px;
+  }
+
+  .testimonials-section {
+    margin-top: 30px;
+  }
+  .web-tsm-swiper {
+    padding: 0 15px 30px;
+  }
+  .quote {
+    font-size: 84px;
+    margin-bottom: 10px;
+  }
+  .flex-register {
+    gap: 39px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .swiper-button-next::after, .swiper-button-prev::after {
+    font-size: 12px;
+  }
+   .nextCar_btn.swiper-button-next,  .swiper-button-prev.prevCar_btn {
+    display: none !important;
+  }
+
+  .section-heading {
+    font-size: 28px;
+  }
+  .slider-text {
+    padding: 0 0 0 150px;
+  }
+  .hero-heading {
+    font-size: 38px;
+  }
+  .section-title {
+    font-size: 24px;
+  }
+  .primary-btn.default-btn {
+    font-size: 17px;
+    padding: 13px 30px;
+  }
+  .features-slider {
+    height: 400px;
+  }
+  .navbar-toggler.menuClose-icon {
+    position: absolute;
+    top: 13px;
+    right: 15px;
+  }
+  .navbar-toggler.menuClose-icon::before,
+  .navbar-toggler.menuClose-icon::after {
+    display: none;
+  }
+  header .collapse:not(.show) {
+    width: 100%;
+  }
+  header .collapse:not(.show) {
+    left: -100%;
+    box-shadow: unset;
+  }
+
+  p {
+    font-size: 16px;
+  }  
+
+  .copyright {
+    font-size: 12px;
+  }
+  footer h6 {
+    margin: 0 0 10px;
+  }  
+  .features-coin {
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+  }
+
+  .features-coin img {
+    height: 30px;
+  }
+
+  .features-heading {
+    font-size: 17px;
+  }
+
+  .features-text {
+    font-size: 13px;
+  }
+
+  .footer-signin-link a span,
+  .footer-signup-link a span {
+    font-size: 20px;
+  }
+
+  .footer-signin-link a p,
+  .footer-signup-link a p {
+    font-size: 11px;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-right: 40px;
+  }
+
+  .footer-signup-link a span.footer-link-arrow,
+  .footer-signin-link a span.footer-link-arrow {
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    right: 10px;
+    font-size: 14px;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-right: 40px;
+    padding-left: 15px;
+  }
+  .price-value-right,
+  .coinname-detail-box,
+  .coin-trade-action {
+    padding: 10px 20px;
+  }
+ 
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+}
+
+@media (max-width: 575.98px) {
+  .formSection .default-btn {
+    width: 100%;
+    text-align: center;
+}
+.form_buttonRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+  .srv-title {
+    font-size: 17px;
+    padding: 15px;
+  }
+  .srv-image img {
+    height: 160px;
+  }
+
+  #header .navbar-expand-lg .navbar-nav .nav-link.lang_drop img {
+    width: 19px;
+  }
+  .section {
+    margin-top: 25px;
+  }
+  .features-coin {
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+  }
+  .features-coin img {
+    height: 22px;
+  }
+  .footer_wrapper {
+    padding: 20px 0 0;
+  }
+  .footer-block figure img {
+    height: 35px;
+  }
+  footer h6 {
+    font-size: 15px;
+  }
+
+  ul.footer-links li {
+    margin: 2 0;
+  }
+
+  .footer-signin-link a,
+  .footer-signup-link a {
+    padding-left: 10px;
+    padding-right: 0;
+    height: 80px;
+  }
+
+  .footer-signin-link a span,
+  .footer-signup-link a span {
+    font-size: 16px;
+  }
+
+  .footer-signup-link a span.footer-link-arrow,
+  .footer-signin-link a span.footer-link-arrow {
+    top: 10px;
+    transform: unset;
+    height: 22px;
+    width: 22px;
+    line-height: 22px;
+    font-size: 13px;
+  }
+  
+  
+}

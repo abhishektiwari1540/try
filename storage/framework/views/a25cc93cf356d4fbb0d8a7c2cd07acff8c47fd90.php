@@ -1,0 +1,1 @@
+<?php /**PATH C:\xamppa\htdocs\iraaspurohit_html\resources\views/admin/elements/quick_links.blade.php ENDPATH**/ ?>

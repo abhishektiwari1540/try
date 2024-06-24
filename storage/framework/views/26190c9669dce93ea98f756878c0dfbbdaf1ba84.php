@@ -1,0 +1,1 @@
+<?php /**PATH /home/wildtag/web/wildtag.stage02.obdemo.com/public_html/resources/views/admin/elements/quick_links.blade.php ENDPATH**/ ?>

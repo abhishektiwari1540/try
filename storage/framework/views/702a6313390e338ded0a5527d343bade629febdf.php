@@ -1,0 +1,1 @@
+<?php echo $messageBody; ?>	<?php /**PATH /home/wildtag/web/wildtag.dev.obdemo.com/public_html/resources/views/emails/template.blade.php ENDPATH**/ ?>
